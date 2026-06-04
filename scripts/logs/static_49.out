@@ -1,0 +1,24 @@
+Device: cuda  keep_tokens=49
+Parameters: 5,543,716
+Epoch 01/20 | train_loss=2.9844 train_acc=0.2782 | val_loss=1.7154 val_acc=0.5300
+Epoch 02/20 | train_loss=2.0224 train_acc=0.4682 | val_loss=1.3232 val_acc=0.6276
+Epoch 03/20 | train_loss=1.7764 train_acc=0.5275 | val_loss=1.2780 val_acc=0.6453
+Epoch 04/20 | train_loss=1.6419 train_acc=0.5621 | val_loss=1.1180 val_acc=0.6751
+Epoch 05/20 | train_loss=1.5407 train_acc=0.5831 | val_loss=1.0391 val_acc=0.6993
+Epoch 06/20 | train_loss=1.4823 train_acc=0.6000 | val_loss=1.0259 val_acc=0.7013
+Epoch 07/20 | train_loss=1.4155 train_acc=0.6152 | val_loss=0.9647 val_acc=0.7156
+Epoch 08/20 | train_loss=1.3411 train_acc=0.6308 | val_loss=0.9738 val_acc=0.7200
+Epoch 09/20 | train_loss=1.2860 train_acc=0.6488 | val_loss=0.9518 val_acc=0.7216
+Epoch 10/20 | train_loss=1.2692 train_acc=0.6517 | val_loss=0.9290 val_acc=0.7320
+Epoch 11/20 | train_loss=1.2218 train_acc=0.6660 | val_loss=0.8993 val_acc=0.7381
+Epoch 12/20 | train_loss=1.1899 train_acc=0.6722 | val_loss=0.9393 val_acc=0.7315
+Epoch 13/20 | train_loss=1.1617 train_acc=0.6778 | val_loss=0.9067 val_acc=0.7419
+Epoch 14/20 | train_loss=1.1359 train_acc=0.6857 | val_loss=0.9016 val_acc=0.7411
+Epoch 15/20 | train_loss=1.0910 train_acc=0.6994 | val_loss=0.8822 val_acc=0.7432
+Epoch 16/20 | train_loss=1.0767 train_acc=0.7039 | val_loss=0.8691 val_acc=0.7509
+Epoch 17/20 | train_loss=1.0470 train_acc=0.7091 | val_loss=0.9116 val_acc=0.7391
+Epoch 18/20 | train_loss=1.0245 train_acc=0.7177 | val_loss=0.8771 val_acc=0.7494
+Epoch 19/20 | train_loss=0.9921 train_acc=0.7250 | val_loss=0.9364 val_acc=0.7369
+Epoch 20/20 | train_loss=0.9799 train_acc=0.7265 | val_loss=0.9160 val_acc=0.7423
+
+Best val acc: 0.7509  FLOPs: 0.5209 G  ratio: 25.00%

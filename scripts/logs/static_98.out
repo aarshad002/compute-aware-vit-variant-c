@@ -1,0 +1,25 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Device: cuda  keep_tokens=98
+Parameters: 5,543,716
+Epoch 01/20 | train_loss=2.7212 train_acc=0.3341 | val_loss=1.3320 val_acc=0.6293
+Epoch 02/20 | train_loss=1.7519 train_acc=0.5345 | val_loss=1.0411 val_acc=0.6990
+Epoch 03/20 | train_loss=1.5367 train_acc=0.5868 | val_loss=0.9797 val_acc=0.7143
+Epoch 04/20 | train_loss=1.4157 train_acc=0.6173 | val_loss=0.8947 val_acc=0.7366
+Epoch 05/20 | train_loss=1.3293 train_acc=0.6364 | val_loss=0.8652 val_acc=0.7469
+Epoch 06/20 | train_loss=1.2602 train_acc=0.6560 | val_loss=0.8523 val_acc=0.7495
+Epoch 07/20 | train_loss=1.2097 train_acc=0.6668 | val_loss=0.8272 val_acc=0.7533
+Epoch 08/20 | train_loss=1.1598 train_acc=0.6818 | val_loss=0.8193 val_acc=0.7573
+Epoch 09/20 | train_loss=1.1077 train_acc=0.6935 | val_loss=0.8212 val_acc=0.7579
+Epoch 10/20 | train_loss=1.0837 train_acc=0.7012 | val_loss=0.7837 val_acc=0.7686
+Epoch 11/20 | train_loss=1.0440 train_acc=0.7119 | val_loss=0.7681 val_acc=0.7792
+Epoch 12/20 | train_loss=1.0094 train_acc=0.7212 | val_loss=0.7908 val_acc=0.7668
+Epoch 13/20 | train_loss=0.9893 train_acc=0.7272 | val_loss=0.7752 val_acc=0.7737
+Epoch 14/20 | train_loss=0.9630 train_acc=0.7349 | val_loss=0.7779 val_acc=0.7764
+Epoch 15/20 | train_loss=0.9350 train_acc=0.7400 | val_loss=0.7684 val_acc=0.7788
+Epoch 16/20 | train_loss=0.9159 train_acc=0.7462 | val_loss=0.7885 val_acc=0.7705
+Epoch 17/20 | train_loss=0.8905 train_acc=0.7525 | val_loss=0.7565 val_acc=0.7869
+Epoch 18/20 | train_loss=0.8632 train_acc=0.7616 | val_loss=0.7576 val_acc=0.7848
+Epoch 19/20 | train_loss=0.8427 train_acc=0.7662 | val_loss=0.8004 val_acc=0.7715
+Epoch 20/20 | train_loss=0.8299 train_acc=0.7716 | val_loss=0.7844 val_acc=0.7795
+
+Best val acc: 0.7869  FLOPs: 0.7169 G  ratio: 50.00%

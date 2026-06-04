@@ -1,0 +1,26 @@
+nohup: ignoring input
+Device: cuda | budget_weight=0.5 λ_warmup=5 | ent_init=0.5 anneal=10ep | tau: 3.0 → 0.5
+Parameters: 5,562,919
+Budget levels (tokens): [49, 98, 196]
+Epoch 01/20 | τ=3.000 λ_b=0.100 λ_e=0.500 | loss=4.8284 aux=2.6857 blend=2.5938 budget=0.6250 acc=0.3600 | val_loss=1.2007 val_acc=0.6543 token_ratio=1.0000
+Epoch 02/20 | τ=2.635 λ_b=0.200 λ_e=0.450 | loss=3.0614 aux=1.7527 blend=1.6420 budget=0.6190 acc=0.5609 | val_loss=0.9179 val_acc=0.7285 token_ratio=0.9589
+Epoch 03/20 | τ=2.323 λ_b=0.300 λ_e=0.400 | loss=2.7817 aux=1.5507 blend=1.4519 budget=0.5977 acc=0.6055 | val_loss=0.9145 val_acc=0.7293 token_ratio=0.7427
+Epoch 04/20 | τ=2.057 λ_b=0.400 λ_e=0.350 | loss=2.6708 aux=1.4348 blend=1.3496 budget=0.5721 acc=0.6341 | val_loss=0.8724 val_acc=0.7426 token_ratio=0.4955
+Epoch 05/20 | τ=1.829 λ_b=0.500 λ_e=0.300 | loss=2.5982 aux=1.3405 blend=1.2708 budget=0.5396 acc=0.6519 | val_loss=0.8300 val_acc=0.7512 token_ratio=0.4946
+Epoch 06/20 | τ=1.635 λ_b=0.500 λ_e=0.250 | loss=2.5197 aux=1.2729 blend=1.2091 budget=0.5300 acc=0.6697 | val_loss=0.8323 val_acc=0.7511 token_ratio=0.4914
+Epoch 07/20 | τ=1.469 λ_b=0.500 λ_e=0.200 | loss=2.4715 aux=1.2215 blend=1.1652 budget=0.5167 acc=0.6806 | val_loss=0.8115 val_acc=0.7644 token_ratio=0.4824
+Epoch 08/20 | τ=1.328 λ_b=0.500 λ_e=0.150 | loss=2.4029 aux=1.1620 blend=1.1137 budget=0.4985 acc=0.6935 | val_loss=0.7869 val_acc=0.7697 token_ratio=0.4844
+Epoch 09/20 | τ=1.207 λ_b=0.500 λ_e=0.100 | loss=2.3428 aux=1.1097 blend=1.0704 budget=0.4709 acc=0.7038 | val_loss=0.7818 val_acc=0.7713 token_ratio=0.4812
+Epoch 10/20 | τ=1.104 λ_b=0.500 λ_e=0.000 | loss=2.3558 aux=1.0843 blend=1.0482 budget=0.4467 acc=0.7097 | val_loss=0.7677 val_acc=0.7764 token_ratio=0.5000
+Epoch 11/20 | τ=1.015 λ_b=0.500 λ_e=0.000 | loss=2.2825 aux=1.0478 blend=1.0125 budget=0.4444 acc=0.7209 | val_loss=0.7644 val_acc=0.7801 token_ratio=0.4955
+Epoch 12/20 | τ=0.940 λ_b=0.500 λ_e=0.000 | loss=2.2097 aux=1.0106 blend=0.9778 budget=0.4426 acc=0.7281 | val_loss=0.7554 val_acc=0.7795 token_ratio=0.4934
+Epoch 13/20 | τ=0.876 λ_b=0.500 λ_e=0.000 | loss=2.1478 aux=0.9809 blend=0.9465 budget=0.4408 acc=0.7388 | val_loss=0.7699 val_acc=0.7780 token_ratio=0.4964
+Epoch 14/20 | τ=0.821 λ_b=0.500 λ_e=0.000 | loss=2.1075 aux=0.9596 blend=0.9284 budget=0.4389 acc=0.7438 | val_loss=0.7606 val_acc=0.7803 token_ratio=0.4816
+Epoch 15/20 | τ=0.774 λ_b=0.500 λ_e=0.000 | loss=2.0490 aux=0.9294 blend=0.8969 budget=0.4455 acc=0.7520 | val_loss=0.7491 val_acc=0.7859 token_ratio=0.4728
+Epoch 16/20 | τ=0.734 λ_b=0.500 λ_e=0.000 | loss=2.0138 aux=0.9115 blend=0.8836 budget=0.4375 acc=0.7537 | val_loss=0.7313 val_acc=0.7877 token_ratio=0.4902
+Epoch 17/20 | τ=0.700 λ_b=0.500 λ_e=0.000 | loss=1.9697 aux=0.8904 blend=0.8536 budget=0.4512 acc=0.7640 | val_loss=0.7708 val_acc=0.7812 token_ratio=0.4820
+Epoch 18/20 | τ=0.671 λ_b=0.500 λ_e=0.000 | loss=1.9148 aux=0.8620 blend=0.8333 budget=0.4389 acc=0.7677 | val_loss=0.7466 val_acc=0.7888 token_ratio=0.4775
+Epoch 19/20 | τ=0.646 λ_b=0.500 λ_e=0.000 | loss=1.8673 aux=0.8373 blend=0.8129 budget=0.4340 acc=0.7746 | val_loss=0.7832 val_acc=0.7808 token_ratio=0.4722
+Epoch 20/20 | τ=0.624 λ_b=0.500 λ_e=0.000 | loss=1.8504 aux=0.8304 blend=0.8042 budget=0.4316 acc=0.7786 | val_loss=0.7787 val_acc=0.7827 token_ratio=0.4512
+
+Best val acc: 0.7888 | Mean token ratio: 0.4775 | FLOPs per budget: {49: 0.5209, 98: 0.7169, 196: 1.1088}
